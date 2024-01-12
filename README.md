@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/springboot-90E59A?style=flat&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/thymeleaf-111324?style=flat&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-31A8FF?style=flat&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
  </div>
