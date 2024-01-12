@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 <p>안녕하세요!</p>
 <p>UX/UI 디자인 양성과정과 백앤드 부트캠프에서 얻은 다양한 기술 스킬과 현재까지의 경력과 인턴 경험으로</p>
-<p>배우며 성장하는 <b style="color:#fdc23e">기획자</b>입니다</p>
+<p>배우며 성장하는 <span style="color:#fdc23e">기획자</span>입니다</p>
