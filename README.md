@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🙋‍♂️introduce🙋‍♂️&desc=InJun%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=ff7761)
 
-<p align="center">안녕하세요!</p>
-<p align="center">UX/UI 디자인 양성과정과 백앤드 부트캠프에서 얻은 다양한 기술 스킬과 현재까지의 경력과 인턴 경험으로 배우며 성장하는 기획자입니다.</p>
+<p align="center"><h2>안녕하세요!</h2></p>
+<p align="center">UX/UI 디자인 양성과정과 백앤드 부트캠프에서 얻은 다양한 기술 스킬과 </p>
+<p align="center">현재까지의 경력과 인턴 경험으로 배우며 성장하는 기획자입니다.</p>
 
 <br><br>
 
@@ -83,4 +84,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santa2224&layout=compact"><br><br>
 </div>
 
-
+<br>
+<!--portfolio site-->
+<a href=""></a>
