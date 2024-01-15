@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 </div>
 
-<br><br>
+<br>
 
 <p>💻Back-end Stack💻</p>
 <div>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/thymeleaf-111324?style=flat&logo=Thymeleaf&logoColor=white"/>
  </div>
  
- <br><br>
+ <br>
  
  <!-- design-->
  <p>🎨Design Tool🎨</p>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
  </div>
  
- <br><br>
+ <br>
  
 <div>
   <!--github-->
