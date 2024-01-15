@@ -86,4 +86,4 @@ Here are some ideas to get you started:
 
 <br>
 <!--portfolio site-->
-<a href="https://santa2224.github.io/PM_portfolio/">PM포트폴리오</a>
+<h3><a href="https://santa2224.github.io/PM_portfolio/" target="blank">PM포트폴리오</a></h3>
