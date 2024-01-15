@@ -41,6 +41,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Simkl&logoColor=white"/>
   <!--thymeleaf-->
   <img src="https://img.shields.io/badge/thymeleaf-111324?style=flat&logo=Thymeleaf&logoColor=white"/>
+  <!--oracle-->
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
  </div>
  
  <br>
