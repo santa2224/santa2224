@@ -57,8 +57,16 @@ Here are some ideas to get you started:
  </div>
  
  <br>
- 
+
+<!--Used Stack-->
+ <p>⛏Used Stack⛏</p>
 <div>
   <!--github-->
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+  <!--google analytics-->
+  <img src="https://img.shields.io/badge/Googleanalytics-E37400?style=flat&logo=googleanalytics&logoColor=white"/>
+  <!--google business-->
+  <img src="https://img.shields.io/badge/GooglemyBusiness-4285F4?style=flat&logo=googlemybusiness&logoColor=white"/>
+  <!--google street view-->
+  <img src="https://img.shields.io/badge/GoogleStreetview-FEC111?style=flat&logo=googlestreetview&logoColor=white"/>
 </div>
