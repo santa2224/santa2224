@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <!--JQuery-->
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
   <!--java-->
-  <img src="https://img.shields.io/badge/Java-004027?style=flat&logo=jameson&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-C21325?style=flat&logo=jameson&logoColor=white"/>
 </div>
 
 <br>
@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/thymeleaf-111324?style=flat&logo=Thymeleaf&logoColor=white"/>
   <!--oracle-->
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <!--tomcat-->
+  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
  </div>
  
  <br>
