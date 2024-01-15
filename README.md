@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 <br><br>
 <!--stats-->
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santa2224&layout=compact"><br><br>
 </div>
 
