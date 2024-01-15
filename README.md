@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 <!--Used Stack-->
  <p>⛏Used Stack⛏</p>
 <div>
+  <!--git-->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <!--github-->
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
   <!--google analytics-->
