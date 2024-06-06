@@ -30,14 +30,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <!--JQuery-->
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
-  <!--java-->
-  <img src="https://img.shields.io/badge/Java-C21325?style=flat&logo=jameson&logoColor=white"/>
 </div>
 
 <br>
 
 <p>💻Back-end Stack💻</p>
 <div>
+  <!--java-->
+  <img src="https://img.shields.io/badge/Java-C21325?style=flat&logo=jameson&logoColor=white"/>
   <!--JPA-->
   <img src="https://img.shields.io/badge/JPA-004027?style=flat&logo=Jameson&logoColor=white"/>
   <!--spring-->
